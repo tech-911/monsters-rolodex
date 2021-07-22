@@ -1,0 +1,10 @@
+.format{
+   align-items: center;
+   align-content: center;
+}
+
+h1{
+   font-family: 'Bigelow Rules', cursive;
+   font-size: 72px;
+   color: #0ccac4;
+}
